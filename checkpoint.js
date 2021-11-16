@@ -78,8 +78,4 @@ function microondas(comida, tempo){
         console.log("prato inexistente")
     }
 }
-
 microondas ("Carne",15 )
-
-
-
