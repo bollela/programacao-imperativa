@@ -1,3 +1,0 @@
-function digitalHouse (a,b) {
-    
-}
