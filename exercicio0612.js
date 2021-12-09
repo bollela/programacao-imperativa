@@ -92,7 +92,6 @@ console.log (maiorAltura);
 
 let filtraMulheres = arquivos.filter(function(pessoa){
     return pessoa.sexo === "F";
-    
 });
 
 console.log(filtraMulheres);
@@ -111,7 +110,6 @@ console.log (medMulheres);
 
 let filtraHomens = arquivos.filter(function(pessoa){
     return pessoa.sexo === "M";
-    
 });
 
 console.log(filtraHomens);
